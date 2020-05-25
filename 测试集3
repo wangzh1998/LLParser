@@ -1,3 +1,4 @@
+^D
 program
     compoundstmt
         {
@@ -39,10 +40,11 @@ program
                                                 simpleexpr
                                                     NUM
                                                 multexprprime
-                                                    E
+出现错误，进入恢复函数: X=multexprprime a=}
                                             arithexprprime
-                                                E
+出现错误，进入恢复函数: X=arithexprprime a=}
                                         ;
+出现错误，进入恢复函数: X=; a=}
                                 stmts
                                     E
                             }
