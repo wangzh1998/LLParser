@@ -43,7 +43,7 @@ program
                                             arithexprprime
                                                 E
                                         ;
-                                            E
+语法错误,第4行,缺少";"
                                 stmts
                                     E
                             }
