@@ -43,6 +43,7 @@ program
                                             arithexprprime
                                                 E
                                         ;
+                                            E
                                 stmts
                                     E
                             }
